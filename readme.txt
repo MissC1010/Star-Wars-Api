@@ -1,0 +1,1 @@
+to start type run npm dev
